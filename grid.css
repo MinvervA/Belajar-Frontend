@@ -77,6 +77,8 @@ body {
 .boxx2 {
   grid-column-start: 4;
   grid-column-end: 10;
+  /* bisa juga menggunakan */
+  /* grid-column:4/10 */
 }
 .boxx3 {
   grid-column-start: 1;
